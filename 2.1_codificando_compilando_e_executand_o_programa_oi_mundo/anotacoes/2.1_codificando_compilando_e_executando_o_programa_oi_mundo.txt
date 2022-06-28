@@ -1,0 +1,2 @@
+javac NomeDaClasse.java -> compilando o programa
+java NomeDaClasse -> executando o programa
