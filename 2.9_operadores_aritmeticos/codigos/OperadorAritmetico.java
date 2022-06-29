@@ -1,4 +1,4 @@
-public class OperadorAritimetico {
+public class OperadorAritmetico {
     public static void main(String[] args) {
         int notaAluno1 = 99;
         int notaAluno2 = 80;
