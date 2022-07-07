@@ -1,0 +1,23 @@
+Coleta de lixo
+
+Mamoria Heap => eh para aonde os objetos vao.
+ 
+o objeto precisa perder a referencia para ser eliminado 
+da memoria. Para o objeto perder a referencia a variavel
+que aponta para o objeto precisa estar nula, porem o objeto
+continua na memoria, com o isso o garbage collector investiga
+que o objeto tem referencia se nao ele exclui o objeto.
+
+Garbage Collector
+
+<> Executa a hora que quiser
+<> Existem varios algoritmos de garbage collector
+<> Muito importante em producao.
+<> Pode configurar o tamanho da memoria.
+
+ 
+
+
+
+
+
