@@ -7,4 +7,8 @@ public abstract class DAOFactory {
     public static DAOFactory getDAOFactory() {
         return new JdbcDAOFactory();
     }
+
+    // recuperando um ClienteDAO
+    public abstract ClienteDAO getClienteDAO();
+
 }
