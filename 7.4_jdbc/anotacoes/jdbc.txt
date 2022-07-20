@@ -1,0 +1,8 @@
+JDBC 
+
+Para acessar o Java no banco de dados, ao inves do Java
+fornecer dentro do JDK os detalhes da conexao o fornecedor
+do banco de dados vai criar um driver JDBC, esse driver
+eh do proprio fornecedor do banco de dados. Com isso o Java
+conversa com o driver atraves das API, classes e
+interfaces no pacote java.sql
