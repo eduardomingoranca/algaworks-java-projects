@@ -1,0 +1,6 @@
+john@mail.com
+mary@mail.com
+richard@mail.com
+john@mail.com
+mary@mail.com
+richard@mail.com
