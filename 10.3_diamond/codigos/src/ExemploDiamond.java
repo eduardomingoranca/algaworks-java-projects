@@ -14,6 +14,6 @@ public class ExemploDiamond {
         Set<String> carrosDaVolks;
         carrosPorMontadora.put("Volks", carrosDaVolks = new HashSet<>());
         carrosPorMontadora.get("Volks").add("Gol");
-        
+
     }
 }
